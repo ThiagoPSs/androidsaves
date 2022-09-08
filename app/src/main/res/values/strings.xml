@@ -33,6 +33,11 @@
     <string name="res3per1">2022</string>
     <string name="res1per2">rua 7 de Abril</string>
     <string name="res2per2">aqui</string>
+    <string name="buscar">Buscar</string>
+    <string name="remover">Remover</string>
+    <string name="Pesquisa">Pesquise qualquer localização, assim podera encontar o MASP e outros lugares</string>
+    <string name="voltarvalor">Retornar valor</string>
+    <string name="mapa">Mapa</string>
     <string name="res3per2">avenida paulista</string>
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>

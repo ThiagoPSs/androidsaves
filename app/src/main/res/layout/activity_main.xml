@@ -39,6 +39,21 @@
 
     <TextView
         android:id="@+id/textView"
+        android:layout_width="147dp"
+        android:layout_height="26dp"
+        android:layout_marginBottom="64dp"
+        android:text=""
+        android:textSize="34sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.939"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.496" />
+
+    <TextView
+        android:id="@+id/textView2"
         android:layout_width="171dp"
         android:layout_height="51dp"
         android:layout_marginBottom="64dp"
@@ -70,6 +85,7 @@
         android:id="@+id/imageButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:onClick="local"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.828"
